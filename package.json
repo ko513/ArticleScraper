@@ -1,15 +1,15 @@
 {
-  "name": "NewsScraper",
+  "name": "ArticleScraper",
   "version": "1.0.0",
-  "description": "Scrapes news articles from a site and allows the user to make comments.",
-  "main": "server.js",
+  "description": "Scrapes articles from a site and allows the user to make comments.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: Test not specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ko513/NewsScraper"
+    "url": "https://github.com/ko513/ArticleScraper"
   },
   "keywords": [],
   "author": "Kevin O'Connell",
